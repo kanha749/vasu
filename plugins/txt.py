@@ -1,6 +1,6 @@
 ''' 
-modified by t.me/imvasupareek
+modified by t.me/kanhaiyalaljoshi
 
-Support t.me/imvasupareek
+Support t.me/kanhaiyalaljoshi
 
 '''
